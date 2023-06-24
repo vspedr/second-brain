@@ -1,0 +1,113 @@
+{
+  "roots": [
+    {
+      "key": "skud7hs6ydi5clhs37pi09d",
+      "title": "Games",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "second-brain",
+      "children": [
+        {
+          "key": "8y4zzcenk2juxm0k68im7bv",
+          "title": "Games Backlog",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "second-brain",
+          "children": []
+        },
+        {
+          "key": "8r5zc62mlot4twn7qs45vuq",
+          "title": "Finished Games (any%)",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "second-brain",
+          "children": []
+        },
+        {
+          "key": "k91d3gnl0c8dt7z13gzznr4",
+          "title": "Unfinished Games",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "second-brain",
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "ps2jad1sscm0e6nosxxmsbo",
+      "title": "Tech",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "second-brain",
+      "children": [
+        {
+          "key": "5k2omy31otudui1dpsbiabu",
+          "title": "Cloud",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "second-brain",
+          "children": [
+            {
+              "key": "hpaaxdsianu98a4j17j72bw",
+              "title": "Gcp",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "second-brain",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "mlxajywa844ccty9p9d415c",
+          "title": "Coding",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "second-brain",
+          "children": [
+            {
+              "key": "7f8qakqkhs7ef1izcd91tq7",
+              "title": "JS",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "second-brain",
+              "children": [
+                {
+                  "key": "wy81ga03xgl6k0606xtb3a6",
+                  "title": "Difference between Call, Apply and Bind",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "second-brain",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "skud7hs6ydi5clhs37pi09d": null,
+    "8y4zzcenk2juxm0k68im7bv": "skud7hs6ydi5clhs37pi09d",
+    "8r5zc62mlot4twn7qs45vuq": "skud7hs6ydi5clhs37pi09d",
+    "k91d3gnl0c8dt7z13gzznr4": "skud7hs6ydi5clhs37pi09d",
+    "ps2jad1sscm0e6nosxxmsbo": null,
+    "5k2omy31otudui1dpsbiabu": "ps2jad1sscm0e6nosxxmsbo",
+    "hpaaxdsianu98a4j17j72bw": "5k2omy31otudui1dpsbiabu",
+    "mlxajywa844ccty9p9d415c": "ps2jad1sscm0e6nosxxmsbo",
+    "7f8qakqkhs7ef1izcd91tq7": "mlxajywa844ccty9p9d415c",
+    "wy81ga03xgl6k0606xtb3a6": "7f8qakqkhs7ef1izcd91tq7"
+  },
+  "notesLabelById": {
+    "skud7hs6ydi5clhs37pi09d": "Games",
+    "8y4zzcenk2juxm0k68im7bv": "Games Backlog",
+    "8r5zc62mlot4twn7qs45vuq": "Finished Games (any%)",
+    "k91d3gnl0c8dt7z13gzznr4": "Unfinished Games",
+    "ps2jad1sscm0e6nosxxmsbo": "Tech",
+    "5k2omy31otudui1dpsbiabu": "Cloud",
+    "hpaaxdsianu98a4j17j72bw": "Gcp",
+    "mlxajywa844ccty9p9d415c": "Coding",
+    "7f8qakqkhs7ef1izcd91tq7": "JS",
+    "wy81ga03xgl6k0606xtb3a6": "Difference between Call, Apply and Bind"
+  }
+}

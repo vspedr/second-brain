@@ -1,0 +1,393 @@
+{
+  "notes": {
+    "403": {
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "second-brain"
+      },
+      "fname": "403",
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1687641843492,
+      "created": 1687641843492,
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {}
+    },
+    "nxyr0cb3g5aasujal79jhuj": {
+      "id": "nxyr0cb3g5aasujal79jhuj",
+      "title": "Root",
+      "desc": "",
+      "updated": 1687635616299,
+      "created": 1687635282404,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "second-brain"
+      },
+      "contentHash": "51bd447b165228462d90b87cdb5f2995",
+      "links": [],
+      "anchors": {
+        "vspedrs-second-brain": {
+          "type": "header",
+          "text": "vspedr's second brain",
+          "value": "vspedrs-second-brain",
+          "line": 7,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [
+        "skud7hs6ydi5clhs37pi09d",
+        "ps2jad1sscm0e6nosxxmsbo"
+      ],
+      "parent": null,
+      "data": {}
+    },
+    "ps2jad1sscm0e6nosxxmsbo": {
+      "id": "ps2jad1sscm0e6nosxxmsbo",
+      "title": "Tech",
+      "desc": "",
+      "updated": 1687641118442,
+      "created": 1687641118442,
+      "custom": {},
+      "fname": "tech",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "second-brain"
+      },
+      "contentHash": "148e6ccb74d5665e9ce23aac91aab6f7",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "5k2omy31otudui1dpsbiabu",
+        "mlxajywa844ccty9p9d415c"
+      ],
+      "parent": "nxyr0cb3g5aasujal79jhuj",
+      "data": {}
+    },
+    "mlxajywa844ccty9p9d415c": {
+      "id": "mlxajywa844ccty9p9d415c",
+      "title": "Coding",
+      "desc": "",
+      "updated": 1687641171661,
+      "created": 1687641171661,
+      "custom": {},
+      "fname": "tech.coding",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "second-brain"
+      },
+      "contentHash": "6521718149f7f7217f66f3b651241003",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "7f8qakqkhs7ef1izcd91tq7"
+      ],
+      "parent": "ps2jad1sscm0e6nosxxmsbo",
+      "data": {}
+    },
+    "7f8qakqkhs7ef1izcd91tq7": {
+      "id": "7f8qakqkhs7ef1izcd91tq7",
+      "title": "JS",
+      "desc": "",
+      "updated": 1687641179259,
+      "created": 1687641179259,
+      "custom": {},
+      "fname": "tech.coding.js",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "second-brain"
+      },
+      "contentHash": "33238508e2da0ad1e5c274088d71e861",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "wy81ga03xgl6k0606xtb3a6"
+      ],
+      "parent": "mlxajywa844ccty9p9d415c",
+      "data": {}
+    },
+    "wy81ga03xgl6k0606xtb3a6": {
+      "id": "wy81ga03xgl6k0606xtb3a6",
+      "desc": "",
+      "title": "Difference between Call, Apply and Bind",
+      "updated": 1687641661488,
+      "created": 1687641199294,
+      "custom": {},
+      "fname": "tech.coding.js.call-apply-bind",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "second-brain"
+      },
+      "contentHash": "a675a4bc73f6d2cadd5c864188a7398b",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "7f8qakqkhs7ef1izcd91tq7",
+      "data": {}
+    },
+    "5k2omy31otudui1dpsbiabu": {
+      "id": "5k2omy31otudui1dpsbiabu",
+      "title": "Cloud",
+      "desc": "",
+      "updated": 1687641674482,
+      "created": 1687641674482,
+      "custom": {},
+      "fname": "tech.cloud",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "second-brain"
+      },
+      "contentHash": "9891419287ab474402792358d6b2b1be",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "hpaaxdsianu98a4j17j72bw"
+      ],
+      "parent": "ps2jad1sscm0e6nosxxmsbo",
+      "data": {}
+    },
+    "hpaaxdsianu98a4j17j72bw": {
+      "id": "hpaaxdsianu98a4j17j72bw",
+      "title": "Gcp",
+      "desc": "",
+      "updated": 1687641686133,
+      "created": 1687641686133,
+      "custom": {},
+      "fname": "tech.cloud.gcp",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "second-brain"
+      },
+      "contentHash": "c0d23d50ec9254534fadfe384d62994d",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "5k2omy31otudui1dpsbiabu",
+      "data": {}
+    },
+    "skud7hs6ydi5clhs37pi09d": {
+      "id": "skud7hs6ydi5clhs37pi09d",
+      "title": "Games",
+      "desc": "",
+      "updated": 1687635705704,
+      "created": 1687635705704,
+      "custom": {},
+      "fname": "games",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "second-brain"
+      },
+      "contentHash": "e3e6eabecece607c4a9b0dea6b8c6bac",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "8y4zzcenk2juxm0k68im7bv",
+        "8r5zc62mlot4twn7qs45vuq",
+        "k91d3gnl0c8dt7z13gzznr4"
+      ],
+      "parent": "nxyr0cb3g5aasujal79jhuj",
+      "data": {}
+    },
+    "k91d3gnl0c8dt7z13gzznr4": {
+      "id": "k91d3gnl0c8dt7z13gzznr4",
+      "title": "Unfinished Games",
+      "desc": "",
+      "updated": 1687637637494,
+      "created": 1687635731239,
+      "custom": {},
+      "fname": "games.unfinished",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "second-brain"
+      },
+      "contentHash": "9bb148b36f561e38846d60e8bdf5d63a",
+      "links": [],
+      "anchors": {
+        "list-of-unfinished-games": {
+          "type": "header",
+          "text": "List of Unfinished Games",
+          "value": "list-of-unfinished-games",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "skud7hs6ydi5clhs37pi09d",
+      "data": {}
+    },
+    "8r5zc62mlot4twn7qs45vuq": {
+      "id": "8r5zc62mlot4twn7qs45vuq",
+      "title": "Finished Games (any%)",
+      "desc": "",
+      "updated": 1687636960614,
+      "created": 1687635723827,
+      "custom": {},
+      "fname": "games.finished",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "second-brain"
+      },
+      "contentHash": "9c9e403a78fc4e2cee5a1b4f70bad912",
+      "links": [],
+      "anchors": {
+        "list-of-finished-games-any": {
+          "type": "header",
+          "text": "List of Finished Games (any%)",
+          "value": "list-of-finished-games-any",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "skud7hs6ydi5clhs37pi09d",
+      "data": {}
+    },
+    "8y4zzcenk2juxm0k68im7bv": {
+      "id": "8y4zzcenk2juxm0k68im7bv",
+      "title": "Games Backlog",
+      "desc": "",
+      "updated": 1687637652569,
+      "created": 1687636879698,
+      "custom": {},
+      "fname": "games.backlog",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "second-brain"
+      },
+      "contentHash": "f3e3719c483aa469a5fdc1c578fbb11c",
+      "links": [],
+      "anchors": {
+        "games-backlog": {
+          "type": "header",
+          "text": "Games Backlog",
+          "value": "games-backlog",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "skud7hs6ydi5clhs37pi09d",
+      "data": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "nxyr0cb3g5aasujal79jhuj",
+      "title": "Root",
+      "desc": "",
+      "updated": 1687635616299,
+      "created": 1687635282404,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "second-brain"
+      },
+      "contentHash": "51bd447b165228462d90b87cdb5f2995",
+      "links": [],
+      "anchors": {
+        "vspedrs-second-brain": {
+          "type": "header",
+          "text": "vspedr's second brain",
+          "value": "vspedrs-second-brain",
+          "line": 7,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [
+        "skud7hs6ydi5clhs37pi09d",
+        "ps2jad1sscm0e6nosxxmsbo"
+      ],
+      "parent": null,
+      "data": {},
+      "body": "# vspedr's second brain\n\njust a collection of thoughts, learnings and random stuff that lives rent free in my mind\n"
+    }
+  ],
+  "noteIndex": {
+    "id": "nxyr0cb3g5aasujal79jhuj",
+    "title": "Root",
+    "desc": "",
+    "updated": 1687635616299,
+    "created": 1687635282404,
+    "custom": {
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "fname": "root",
+    "type": "note",
+    "vault": {
+      "fsPath": ".",
+      "selfContained": true,
+      "name": "second-brain"
+    },
+    "contentHash": "51bd447b165228462d90b87cdb5f2995",
+    "links": [],
+    "anchors": {
+      "vspedrs-second-brain": {
+        "type": "header",
+        "text": "vspedr's second brain",
+        "value": "vspedrs-second-brain",
+        "line": 7,
+        "column": 0,
+        "depth": 1
+      }
+    },
+    "children": [
+      "skud7hs6ydi5clhs37pi09d",
+      "ps2jad1sscm0e6nosxxmsbo"
+    ],
+    "parent": null,
+    "data": {},
+    "body": "# vspedr's second brain\n\njust a collection of thoughts, learnings and random stuff that lives rent free in my mind\n"
+  },
+  "vaults": [
+    {
+      "fsPath": ".",
+      "selfContained": true,
+      "name": "second-brain"
+    }
+  ]
+}

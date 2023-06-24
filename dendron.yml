@@ -86,18 +86,20 @@ publishing:
     enablePrettyRefs: true
     enableKatex: true
     copyAssets: true
+    assetsPrefix: /second-brain
     siteHierarchies:
         - root
+    siteUrl: https://vspedr.github.io
     writeStubs: false
     siteRootDir: docs
     seo:
-        title: Dendron
+        title: vspedr's second brain
         description: Personal Knowledge Space
     github:
-        enableEditLink: true
-        editLinkText: Edit this page on GitHub
-        editBranch: main
-        editViewMode: tree
+        enableEditLink: false
+        # editLinkText: Edit this page on GitHub
+        # editBranch: main
+        # editViewMode: tree
     enableSiteLastModified: true
     enableFrontmatterTags: true
     enableHashesForFMTags: false
